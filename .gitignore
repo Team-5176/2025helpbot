@@ -182,3 +182,5 @@ ctre_sim/
 # clangd
 /.cache
 compile_commands.json
+vendordeps/REVLib-2025.0.2.json
+vendordeps/REVLib-2025.0.0.json
